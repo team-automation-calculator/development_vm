@@ -11,6 +11,7 @@ Base Image: [Ubuntu 16.04 from osboxes](https://www.osboxes.org/ubuntu/)
 Install bash script that installs these tools in the $PATH variable for easy use:
 
 * Ruby 2.0.0+
+* rbenv
 * Docker Engine 17.09.0+
 * Docker Machine 0.12.0+
 * Docker Compose (Must support Compose 3.4 format)
