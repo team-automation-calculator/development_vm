@@ -17,5 +17,5 @@ Install bash script that installs these tools in the $PATH variable for easy use
 * git
 * python
 * Amazon Web Services CLI
-* Webstorm (Unregistered)
+* RubyMine (Unregistered)
 * Sublime (Unregistered)
