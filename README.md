@@ -20,3 +20,7 @@ Install bash script that installs these tools in the $PATH variable for easy use
 * Amazon Web Services CLI
 * RubyMine (Unregistered)
 * Sublime (Unregistered)
+
+## Tips
+
+* Install Virtualbox Guest Additions without mounting the ISO with this vagrant plugin: `vagrant gem install vagrant-vbguest`. 
